@@ -1,7 +1,5 @@
-//Rönesans Suit
-
-ff
-
-//hasan güisdfk
-
-//sdfhtgjk
+//baslangic
+//dakjsdhaskdjaskjd
+//dasdasdasdas
+/dasdasdascxzc
+//das
