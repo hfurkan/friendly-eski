@@ -3,8 +3,14 @@
 
 //555
 
+<<<<<<< HEAD
 
 
+=======
+///arasdasddasdasd
+///dasdasfaddsfdgfd
+/sdfsdfsdfsdfd
+>>>>>>> fahrettinuygun/master
 
 //furkanozturk
 dfsfs
