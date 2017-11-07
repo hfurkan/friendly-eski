@@ -1,2 +1,2 @@
 //fahrettin uygun uğur
-//beşiktaş
+//GALATASARAY
