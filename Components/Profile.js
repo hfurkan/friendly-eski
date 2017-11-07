@@ -1,2 +1,3 @@
 //fahrettin uygun uğur
-//GALATASARAYS
+//yarrak
+//Yarrakların efendisi
