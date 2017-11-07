@@ -6,10 +6,5 @@
 
 
 //furkanozturk
-
-
-
-
-
-
-// 23.20
+dfsfs
+tyrty
