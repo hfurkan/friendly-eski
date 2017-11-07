@@ -1,5 +1,7 @@
 //baslangic
-//dakjsdhaskdjaskjd
+//dakjsdhaskdjaskjd4
+dasdasdasdasas
+asdasdsadasdasd
 //dasdasdasdas
 //sdd
 /dasdasdascxzc
