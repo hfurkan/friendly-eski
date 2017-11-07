@@ -1,3 +1,1 @@
-//fahrettin uygun uğur
-//yarrak
-//Yarrakların efendisi
+//Rönesans Suit
