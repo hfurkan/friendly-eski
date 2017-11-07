@@ -1,5 +1,5 @@
 <?php
 
-echo "öğrenmekten vazgeçme";
+echo "öğrenmektezgeçme";
 
 ?>
